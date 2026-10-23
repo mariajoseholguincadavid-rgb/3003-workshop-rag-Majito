@@ -1,8 +1,8 @@
 # Workshop RAG · SI3003 Inteligencia Artificial
 
-- **Nombre:** …
-- **Código estudiantil:** …
-- **Usuario de GitHub:** …
+- **Nombre:** maria jose holguin 
+- **Código estudiantil:** 1038262663
+- **Usuario de GitHub:** mariajoseholguincadavid-rgb
 - **Fecha:** 21 de octubre de 2026
 - **Entrega a:** jipadillab@eafit.edu.co
 
